@@ -219,7 +219,6 @@ class SortThreeStringsFirst implements Comparator<Object> {
 				return -1;
 		}
 		return 0;
-	}
-	
+	}	
 }
 
